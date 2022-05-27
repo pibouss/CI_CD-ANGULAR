@@ -12,7 +12,7 @@ export class AppComponent {
   allItems = [
     { description: 'eat', done: true },
     { description: 'sleep', done: false },
-    { description: 'play', done: false },
+    { description: 'jogar', done: false },
     { description: 'laugh', done: false },
   ];
   get items() {
